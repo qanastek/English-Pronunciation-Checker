@@ -1,4 +1,6 @@
-# Fête de la science
+# English Pronunciation Checker
+
+This software is the prototype for a educationnal english pronunciation checker based on automatic speech recognition.
 
 ![Preview](assets/preview.png)
 
